@@ -1,0 +1,6 @@
+D:\C#\GeekBrains\C# Basic\Lesson 6\HW6_Valery\HW6_Valery\bin\Debug\HW6_Valery.exe.config
+D:\C#\GeekBrains\C# Basic\Lesson 6\HW6_Valery\HW6_Valery\bin\Debug\HW6_Valery.exe
+D:\C#\GeekBrains\C# Basic\Lesson 6\HW6_Valery\HW6_Valery\bin\Debug\HW6_Valery.pdb
+D:\C#\GeekBrains\C# Basic\Lesson 6\HW6_Valery\HW6_Valery\obj\Debug\Task_1.csprojResolveAssemblyReference.cache
+D:\C#\GeekBrains\C# Basic\Lesson 6\HW6_Valery\HW6_Valery\obj\Debug\HW6_Valery.exe
+D:\C#\GeekBrains\C# Basic\Lesson 6\HW6_Valery\HW6_Valery\obj\Debug\HW6_Valery.pdb
