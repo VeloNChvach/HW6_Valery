@@ -4,3 +4,9 @@ D:\C#\GeekBrains\C# Basic\Lesson 6\HW6_Valery\Task_3\bin\Debug\Task_3.pdb
 D:\C#\GeekBrains\C# Basic\Lesson 6\HW6_Valery\Task_3\obj\Debug\Task_3.exe
 D:\C#\GeekBrains\C# Basic\Lesson 6\HW6_Valery\Task_3\obj\Debug\Task_3.pdb
 D:\C#\GeekBrains\C# Basic\Lesson 6\HW6_Valery\Task_3\obj\Debug\Task_3.csprojResolveAssemblyReference.cache
+D:\Valery\GeekBrains\Lesson 6\HW6_Valery-master\HW6_Valery\Task_3\bin\Debug\Task_3.exe.config
+D:\Valery\GeekBrains\Lesson 6\HW6_Valery-master\HW6_Valery\Task_3\bin\Debug\Task_3.exe
+D:\Valery\GeekBrains\Lesson 6\HW6_Valery-master\HW6_Valery\Task_3\bin\Debug\Task_3.pdb
+D:\Valery\GeekBrains\Lesson 6\HW6_Valery-master\HW6_Valery\Task_3\obj\Debug\Task_3.exe
+D:\Valery\GeekBrains\Lesson 6\HW6_Valery-master\HW6_Valery\Task_3\obj\Debug\Task_3.pdb
+D:\Valery\GeekBrains\Lesson 6\HW6_Valery-master\HW6_Valery\Task_3\obj\Debug\Task_3.csprojResolveAssemblyReference.cache

@@ -57,18 +57,35 @@ namespace Task_3
             return list;
         }
 
+        static void Print(List<Student> list)
+        {
+            for (int i = 0; i < list.Count; i++)
+                Console.WriteLine($"{list[i].LastName}; {list[i].FirstName}; {list[i].Univercity}; {list[i].Faculty}; {list[i].Course}; {list[i].Depertment}; {list[i].Group}; {list[i].City}; {list[i].Age}");
+        }
+
         static int sortAge(Student st1, Student st2)
         {
             return st1.Age.CompareTo(st2.Age);
         }
 
+        static int countAge(List<Student> list)
+        {
+            int count = 0;
+            for (int i = 0; i < list.Count; i++)
+                if (list[i].Age >= 18 && list[i].Age <= 20)
+                    count++;
+            return count;
+        }
+
         static void Main(string[] args)
         {
+            Console.WindowWidth = 150;
             List<Student> list = CreateStudentList();
             // Сортировка по годам учеников
             list.Sort(new Comparison<Student>(sortAge));
-
-
+            // Отображение сортированого листа
+            Print(list);
+            Console.WriteLine($"Количество студентов в возрасте от 18 до 20 лет: {countAge(list)}");
             Console.ReadKey();
         }
     }
